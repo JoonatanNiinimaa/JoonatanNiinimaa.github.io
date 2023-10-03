@@ -17,7 +17,7 @@ This page or project whatever will it be is made for school project showcasing d
 | A | AA | AB |
 | B | BB | BB |
 
-This table is just an ~~bad~~ example, but still a stable table.
+This table is just an ~~bad~~ example, but still a table.
 
 ### Linking links
 
@@ -76,7 +76,8 @@ Like shopping lists, to-do lists and study notes.
 - Nulla aliquam tincidunt purus sed facilisis.
   - Integer maximus mauris turpis. Nulla molestie tempus tortor, vel malesuada sapien.
 
-Morbi in neque urna. Quisque at auctor sem[^1]. Aliquam vitae elementum massa, et suscipit dui[^2]. Mauris eu efficitur purus, ac suscipit arcu. Nam tincidunt consectetur lectus, commodo viverra quam condimentum vitae.:+1:
+Morbi in neque urna. Quisque at auctor sem[^1]. ~~Aliquam vitae elementum massa~~, et suscipit dui[^2]. Mauris eu efficitur purus, ac suscipit arcu. Nam tincidunt consectetur lectus, commodo viverra quam condimentum vitae.:+1:
+This text uses <sub>subscript</sub> and this text uses <sup>superscript</sup> for an example.
 
 [^1]: Example of footnote.
 
